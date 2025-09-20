@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>پکیج‌های خدمات سئو</title>
+  
+  <!-- فونت فارسی Vazirmatn از گوگل -->
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      font-family: 'Vazirmatn', Tahoma, sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 20px;
+      direction: rtl;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 25px;
+      font-size: 26px;
+      color: #222;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    table th, table td {
+      border: 1px solid #ddd;
+      padding: 12px;
+      text-align: center;
+      font-size: 15px;
+    }
+    table th {
+      background: #333;
+      color: #fff;
+      font-size: 16px;
+    }
+    tr:nth-child(even) {
+      background: #f7f7f7;
+    }
+    .basic { background: #ffe082; font-weight: bold; }
+    .standard { background: #81d4fa; font-weight: bold; }
+    .premium { background: #a5d6a7; font-weight: bold; }
+  </style>
+</head>
+<body>
+
+  <h1>پکیج‌های خدمات سئو ماهیانه</h1>
+
+  <table>
+    <tr>
+      <th>خدمات</th>
+      <th class="basic">Basic<br>15,000,000 تومان</th>
+      <th class="standard">Standard<br>20,000,000 تومان</th>
+      <th class="premium">Premium<br>25,000,000 تومان</th>
+    </tr>
+    <tr><td>انتشار محتوای متنی و تصویری</td><td>🟡 محدود</td><td>✔</td><td>✔</td></tr>
+    <tr><td>تحلیل و بررسی سایت</td><td>✔</td><td>✔</td><td>✔</td></tr>
+    <tr><td>نصب ابزار Search Console</td><td>✔</td><td>✔</td><td>✔</td></tr>
+    <tr><td>رفع ارور در Search Console</td><td>🟡 محدود</td><td>✔</td><td>✔</td></tr>
+    <tr><td>کنترل روزانه وضعیت Performance</td><td>🟡 هفتگی</td><td>🟡 ۳ بار در هفته</td><td>✔ روزانه</td></tr>
+    <tr><td>بهینه‌سازی کدهای وب‌سایت</td><td>🟡 محدود</td><td>✔</td><td>✔</td></tr>
+    <tr><td>بهینه‌سازی تصاویر وب‌سایت</td><td>✔</td><td>✔</td><td>✔ پیشرفته</td></tr>
+    <tr><td>از بین بردن زامبی پیج‌ها</td><td>🟡 محدود</td><td>✔</td><td>✔</td></tr>
+    <tr><td>ساخت و بهینه‌سازی SiteMap</td><td>✔</td><td>✔</td><td>✔</td></tr>
+    <tr><td>بهینه‌سازی عنوان صفحات و متا تگ‌ها</td><td>✔ پایه</td><td>✔ کامل</td><td>✔ پیشرفته</td></tr>
+    <tr><td>ایمیل تحت دامنه</td><td>✔</td><td>✔</td><td>✔</td></tr>
+    <tr><td>بهینه‌سازی سرعت سایت</td><td>🟡 محدود</td><td>✔</td><td>✔ پیشرفته</td></tr>
+    <tr><td>تنظیمات فایل htaccess</td><td>🟡 محدود</td><td>✔</td><td>✔</td></tr>
+    <tr><td>فشرده‌سازی JavaScript و CSS</td><td>🟡 محدود</td><td>🟡 کامل</td><td>✔ پیشرفته</td></tr>
+    <tr><td>سیستم Caching</td><td>🟡 پایه</td><td>✔</td><td>✔</td></tr>
+    <tr><td>تحلیل رقبا</td><td>🟡 سطحی</td><td>✔</td><td>✔ عمیق</td></tr>
+    <tr><td>فعالسازی Schema برای صفحات اصلی</td><td>🟡 محدود</td><td>✔</td><td>✔ کامل</td></tr>
+    <tr><td>بررسی سئو تکنیکال</td><td>✔ پایه</td><td>✔ کامل</td><td>✔ پیشرفته</td></tr>
+    <tr><td>لینک‌سازی داخلی</td><td>✔</td><td>✔ بیشتر</td><td>✔ گسترده</td></tr>
+    <tr><td>لینک‌سازی خارجی (Backlinks)</td><td>🟡 محدود</td><td>✔ متوسط</td><td>✔ گسترده</td></tr>
+    <tr><td>آنالیز و گزارش‌گیری ماهیانه</td><td>✔</td><td>✔</td><td>✔</td></tr>
+    <tr><td>بهینه‌سازی برای موبایل</td><td>✔</td><td>✔</td><td>✔ پیشرفته</td></tr>
+    <tr><td>گزارش‌های جامع لحظه‌ای آنلاین</td><td>❌</td><td>🟡 محدود</td><td>✔ کامل</td></tr>
+    <tr><td>استراتژی محتوای خاص برای SEO</td><td>🟡 کلی</td><td>✔ سفارشی</td><td>✔ پیشرفته</td></tr>
+    <tr><td>بررسی و بهینه‌سازی لینک‌های شکسته</td><td>🟡 محدود</td><td>✔</td><td>✔</td></tr>
+    <tr><td>تنظیم ALT تصاویر</td><td>✔</td><td>✔</td><td>✔ کامل</td></tr>
+    <tr><td>ثبت کسب‌وکار در Google Map</td><td>❌</td><td>✔</td><td>✔</td></tr>
+    <tr><td>سئو خارجی (Off-page)</td><td>🟡 محدود</td><td>✔ متوسط</td><td>✔ گسترده</td></tr>
+    <tr><td>پشتیبانی تیکتی و تلفنی</td><td>✔ در ساعات کاری</td><td>✔ پیشرفته</td><td>✔ VIP</td></tr>
+    <tr><td>تولید و نشر رپورتاژهای خبری</td><td>❌</td><td>🟡 محدود</td><td>✔ ماهانه</td></tr>
+    <tr><td>ساخت لینک‌های Social Signal</td><td>🟡 محدود</td><td>✔</td><td>✔ گسترده</td></tr>
+    <tr><td>تعداد کلمات کلیدی هدف</td><td>۵-۷</td><td>۸-۱۲</td><td>۱۵+</td></tr>
+
+  </table>
+
+</body>
+</html>
