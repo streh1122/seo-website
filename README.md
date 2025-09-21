@@ -57,9 +57,9 @@
   <table>
     <tr>
       <th>خدمات</th>
-      <th class="basic">Basic<br>15,000,000 تومان</th>
-      <th class="standard">Standard<br>20,000,000 تومان</th>
-      <th class="premium">Premium<br>25,000,000 تومان</th>
+      <th class="basic">Basic<br>/th>
+      <th class="standard">Standard<br></th>
+      <th class="premium">Premium<br></th>
     </tr>
     <tr><td>انتشار محتوای متنی و تصویری</td><td>🟡 محدود</td><td>✔</td><td>✔</td></tr>
     <tr><td>تحلیل و بررسی سایت</td><td>✔</td><td>✔</td><td>✔</td></tr>
